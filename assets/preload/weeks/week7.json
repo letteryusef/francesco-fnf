@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"speed",
+			"francesco",
+			[
+				60,
+				160,
+				83
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "francesco",
+	"weekCharacters": [
+		"francesco",
+		"bf",
+		"gf"
+	],
+	"storyName": "fiiiiiiiiiiiiiiiiiiiiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaauuuuuuuunnnnnnn",
+	"weekName": "francesco",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
