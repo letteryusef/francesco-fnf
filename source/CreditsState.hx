@@ -25,12 +25,13 @@ class CreditsState extends MusicBeatState
 
 	private static var creditsStuff:Array<Dynamic> = [ //Name - Icon name - Description - Link - BG Color
 		['Francesco Team'],
-		['LetterY',		'lettery',		'Main Director, Animator and Composer',					'https://twitter.com/letteryusef',	0xFF493561],
+		['LetterY',		'lettery',		'Main Director, Cutscene and Sprite Animator, Lua Coder and Composer',					'https://twitter.com/letteryusef',	0xFF493561],
 		['Icarolee',		'icarolee',		'Coder and Playtester',					'https://twitter.com/Icarofnf',	0xFFB01A09],
 		['El_Cyan',		'elcyan',		'Charter',					'https://gamebanana.com/members/1809715',	0xFF1F1961],
 		[''],
 		['Special Thanks'],
-		['Gabl3u888',		'elhijodaputa',		'obrigado pela sua idea, seu genio',					'https://youtu.be/dQw4w9WgXcQ',	0xFF1F6B33],	
+		['Gabl3u888',		'elhijodaputa',		'obrigado pela sua idea, seu genio',					'https://youtu.be/dQw4w9WgXcQ',	0xFF1F6B33],
+		['Shadow Mario',		'shadowmario',		'Helped us with Ending Cutscene code, Thank you :)',					'https://twitter.com/Shadow_Mario_',	0xFFFFDD33],	
 		[''],
 		['Psych Engine Team'],
 		['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	0xFFFFDD33],
