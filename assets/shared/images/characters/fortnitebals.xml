@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fortnitebals.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fortniteballs0000" x="0" y="0" width="482" height="498"/>
+	<SubTexture name="fortniteballs0001" x="0" y="0" width="482" height="498"/>
+	<SubTexture name="fortniteballs0002" x="482" y="0" width="482" height="498"/>
+	<SubTexture name="fortniteballs0003" x="482" y="0" width="482" height="498"/>
+	<SubTexture name="fortniteballs0004" x="964" y="0" width="482" height="498"/>
+	<SubTexture name="fortniteballs0005" x="964" y="0" width="482" height="498"/>
+	<SubTexture name="fortniteballs0006" x="1446" y="0" width="482" height="498"/>
+	<SubTexture name="fortniteballs0007" x="1446" y="0" width="482" height="498"/>
+	<SubTexture name="fortniteballs0008" x="1928" y="0" width="482" height="498"/>
+	<SubTexture name="fortniteballs0009" x="1928" y="0" width="482" height="498"/>
+	<SubTexture name="fortniteballs0010" x="2410" y="0" width="482" height="498"/>
+	<SubTexture name="fortniteballs0011" x="2410" y="0" width="482" height="498"/>
+	<SubTexture name="fortniteballs0012" x="2892" y="0" width="482" height="498"/>
+	<SubTexture name="fortniteballs0013" x="2892" y="0" width="482" height="498"/>
+	<SubTexture name="fortniteballs0014" x="3374" y="0" width="482" height="498"/>
+	<SubTexture name="fortniteballs0015" x="3374" y="0" width="482" height="498"/>
+	<SubTexture name="fortniteballs0016" x="0" y="498" width="482" height="498"/>
+	<SubTexture name="fortniteballs0017" x="0" y="498" width="482" height="498"/>
+	<SubTexture name="fortniteballs0018" x="482" y="498" width="482" height="498"/>
+	<SubTexture name="fortniteballs0019" x="482" y="498" width="482" height="498"/>
+	<SubTexture name="fortniteballs0020" x="964" y="498" width="482" height="498"/>
+	<SubTexture name="fortniteballs0021" x="964" y="498" width="482" height="498"/>
+	<SubTexture name="fortniteballs0022" x="1446" y="498" width="482" height="498"/>
+	<SubTexture name="fortniteballs0023" x="1446" y="498" width="482" height="498"/>
+	<SubTexture name="fortniteballs0024" x="1928" y="498" width="482" height="498"/>
+	<SubTexture name="fortniteballs0025" x="1928" y="498" width="482" height="498"/>
+	<SubTexture name="fortniteballs0026" x="2410" y="498" width="482" height="498"/>
+	<SubTexture name="fortniteballs0027" x="2410" y="498" width="482" height="498"/>
+	<SubTexture name="fortniteballs0028" x="2892" y="498" width="482" height="498"/>
+	<SubTexture name="fortniteballs0029" x="2892" y="498" width="482" height="498"/>
+	<SubTexture name="fortniteballs0030" x="3374" y="498" width="482" height="498"/>
+	<SubTexture name="fortniteballs0031" x="3374" y="498" width="482" height="498"/>
+	<SubTexture name="fortniteballs0032" x="0" y="996" width="482" height="498"/>
+	<SubTexture name="fortniteballs0033" x="0" y="996" width="482" height="498"/>
+	<SubTexture name="fortniteballs0034" x="482" y="996" width="482" height="498"/>
+	<SubTexture name="fortniteballs0035" x="482" y="996" width="482" height="498"/>
+	<SubTexture name="fortniteballs0036" x="964" y="996" width="482" height="498"/>
+	<SubTexture name="fortniteballs0037" x="964" y="996" width="482" height="498"/>
+	<SubTexture name="fortniteballs0038" x="1446" y="996" width="482" height="498"/>
+	<SubTexture name="fortniteballs0039" x="1446" y="996" width="482" height="498"/>
+	<SubTexture name="fortniteballs0040" x="1928" y="996" width="482" height="498"/>
+	<SubTexture name="fortniteballs0041" x="1928" y="996" width="482" height="498"/>
+	<SubTexture name="fortniteballs0042" x="2410" y="996" width="482" height="498"/>
+	<SubTexture name="fortniteballs0043" x="2410" y="996" width="482" height="498"/>
+	<SubTexture name="fortniteballs0044" x="2892" y="996" width="482" height="498"/>
+	<SubTexture name="fortniteballs0045" x="2892" y="996" width="482" height="498"/>
+	<SubTexture name="fortniteballs0046" x="3374" y="996" width="482" height="498"/>
+	<SubTexture name="fortniteballs0047" x="3374" y="996" width="482" height="498"/>
+	<SubTexture name="fortniteballs0048" x="0" y="1494" width="482" height="498"/>
+	<SubTexture name="fortniteballs0049" x="0" y="1494" width="482" height="498"/>
+	<SubTexture name="fortniteballs0050" x="482" y="1494" width="482" height="498"/>
+	<SubTexture name="fortniteballs0051" x="482" y="1494" width="482" height="498"/>
+	<SubTexture name="fortniteballs0052" x="964" y="1494" width="482" height="498"/>
+	<SubTexture name="fortniteballs0053" x="964" y="1494" width="482" height="498"/>
+	<SubTexture name="fortniteballs0054" x="1446" y="1494" width="482" height="498"/>
+	<SubTexture name="fortniteballs0055" x="1446" y="1494" width="482" height="498"/>
+</TextureAtlas>

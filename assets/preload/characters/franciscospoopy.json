@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				381,
+				-161
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "francescospoopy idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				249,
+				-129
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "francescospoopy up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				834,
+				-160
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "francescospoopy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				330,
+				-357
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "francescospoopy right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				458,
+				-308
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "francescospoopy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				299,
+				-130
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "francescomegaspoopy up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				814,
+				-160
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "francescomegaspoopy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				510,
+				-290
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "francescomegaspoopy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				340,
+				-290
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "francescomegaspoopy right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/francescospoopy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "francescospoopy",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-610,
+		280
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

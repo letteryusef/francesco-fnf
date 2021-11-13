@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Overheating",
+			"francescospoopy",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"francesco",
+		"bf",
+		"gf"
+	],
+	"storyName": "did you really edited the week8.json file just to show the week here?",
+	"weekName": "francescodomal",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "week7",
+	"startUnlocked": false
+}

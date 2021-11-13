@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				136,
+				-243
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "fortniteballs"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fortnitebals",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "fortnitebals",
+	"flip_x": false,
+	"healthbar_colors": [
+		39,
+		39,
+		39
+	],
+	"camera_position": [
+		-190,
+		360
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

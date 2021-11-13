@@ -27,7 +27,7 @@ class CreditsState extends MusicBeatState
 		['Francesco Team'],
 		['LetterY',		'lettery',		'Main Director, Cutscene and Sprite Animator, Lua Coder and Composer',					'https://twitter.com/letteryusef',	0xFF493561],
 		['Icarolee',		'icarolee',		'Coder and Playtester',					'https://twitter.com/Icarofnf',	0xFFB01A09],
-		['El_Cyan',		'elcyan',		'Charter',					'https://gamebanana.com/members/1809715',	0xFF1F1961],
+		['El_Cyaan',		'elcyan',		'Charter and Xml Fixer',					'https://gamebanana.com/members/1809715',	0xFF1F1961],
 		[''],
 		['Special Thanks'],
 		['Gabl3u888',		'elhijodaputa',		'obrigado pela sua idea, seu genio',					'https://youtu.be/dQw4w9WgXcQ',	0xFF1F6B33],
